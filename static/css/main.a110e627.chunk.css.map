@@ -1,0 +1,1 @@
+{"version":3,"sources":["Tab.css","Tabs.css"],"names":[],"mappings":"AAAA,MACE,YACF,CCFA,aACE,iBAAkB,CAClB,YACF,CAEA,MACE,mBACF","file":"main.a110e627.chunk.css","sourcesContent":[".item {\n  outline: none;\n}\n",".tab-content {\n  text-align: center;\n  padding: 30px;\n}\n\n.menu {\n  padding: 30px 30px 0;\n}\n"]}
